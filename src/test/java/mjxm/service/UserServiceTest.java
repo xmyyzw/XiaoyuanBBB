@@ -14,12 +14,50 @@ public class UserServiceTest {
     @Test
     public void testRegister() {
         assertEquals("testRegister", 1, 1);
-
     }
 
     @Test
     public void testCherckUserName() {
         assertEquals("testCherckUserName", 1, 1);
+    }
 
+    @Test
+    public void testLogin() {
+        assertEquals("testLogin", 1, 1);
+    }
+
+    @Test
+    public void testWeixinBinding() {
+        assertEquals("testWeixinBinding", 1, 1);
+    }
+
+    @Test
+    public void testRelease() {
+        assertEquals("testRelease", 1, 1);
+    }
+
+    @Test
+    public void testModify() {
+        assertEquals("testModify", 1, 1);
+    }
+
+    @Test
+    public void testFindByUserAndRequirement() {
+        assertEquals("testFindByUserAndRequirement", 1, 1);
+    }
+
+    @Test
+    public void testFindByID() {
+        assertEquals("testFindByID", 1, 1);
+    }
+
+    @Test
+    public void testCheckUserName() {
+        assertEquals("testCheckUserName", 1, 1);
+    }
+
+    @Test
+    public void testSearch() {
+        assertEquals("testSearch", 1, 1);
     }
 }
