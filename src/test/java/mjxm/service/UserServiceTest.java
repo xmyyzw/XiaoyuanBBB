@@ -66,9 +66,7 @@ public class UserServiceTest {
         assertEquals("test2", 1, 1);
     }
 
-    @Test
-    public void test3() {
-        assertEquals("test3", 1, 1);
-    }
+
+    
 
 }
