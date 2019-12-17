@@ -56,4 +56,6 @@ public class UserControllerTest {
     public void testNoSender() {
         assertEquals("testSearch", 1, 1);
     }
+
+    
 }
